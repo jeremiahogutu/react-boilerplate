@@ -1,2 +1,2 @@
 # React-boilerplate
-Boilerplate I use for when starting my react projects
+Boilerplate I use when starting my react projects
